@@ -1,0 +1,13 @@
+{
+    "name": "angularapi",
+    "version": "1.0.0",
+    "description": "server api",
+    "author": "jose Flores",
+    "license": "ISC",
+    "dependencies": {
+        "cors": "^2.8.5",
+        "express": "^3.21.2",
+        "mongoose": "^6.0.3",
+        "nodemon": "^2.0.13"
+    }
+}
