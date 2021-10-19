@@ -1,9 +1,21 @@
 Tecnologias 
-
+    git
+    npm
+    express
+    nodemon
+    mongoose
 	Node js
 	Mongo DB
 
 Desarrollo
+
+    En el momento de clonar el codigo ejecutar los comandos
+        npm i 
+        npm install express --save 
+        npm install nodemon --save o npm install -g nodemon
+        npm install mongoose
+    para instalar las dependencias correspondientes y para ejecutar el proyecto se utiliza el comando 
+        nodemon servidor.js 
 
 	El desarrollo se llevo acabo mediante metodos get y post para el manejo de la información
 
